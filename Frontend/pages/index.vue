@@ -3,7 +3,7 @@
     <Header />
     <div class="columns is-centered">
       <div class="column is-8 mt-4">
-        <div v-if="trayectos.length !== 0">
+        <div>
           <div class="columns">
             <div class="column is-6" style="width: auto">
               <h3 class="is-inline-block">Buses de</h3>
